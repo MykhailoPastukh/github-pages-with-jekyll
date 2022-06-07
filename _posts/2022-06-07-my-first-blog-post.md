@@ -1,4 +1,7 @@
-## List patterns ##
+---
+title: "List patterns"
+date: 2022-06-07
+---
 List patterns extend pattern matching to match sequences of elements in a list or an array. 
 For example, sequence is `[1, 2, 3]` is `true` when the sequence is an array or a list of three integers (1, 2, and 3). 
 You can match elements using any pattern, including constant, type, property and relational patterns. 
